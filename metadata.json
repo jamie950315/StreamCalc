@@ -1,0 +1,5 @@
+{
+  "name": "Moonlight Bitrate Calculator",
+  "description": "A professional tool to calculate optimal bitrate settings for Sunshine/Moonlight game streaming, powered by Gemini for network analysis.",
+  "requestFramePermissions": []
+}
