@@ -24,3 +24,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1elkbG20wkBkSwr1N6fOjfX
 Build and host the app on `0.0.0.0:3000`:
 
 `npm run host`
+
+## GitHub Pages
+
+This repo includes a GitHub Actions workflow at `.github/workflows/deploy.yml` that deploys to GitHub Pages on pushes to `main`.
+
+Before first deploy, enable GitHub Pages in repository settings and set **Source** to **GitHub Actions**.
